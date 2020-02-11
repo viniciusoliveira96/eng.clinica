@@ -153,71 +153,6 @@ a:hover {
 }
 
 /*===========================
-  Slider
-============================ */
-.slider {
-  position: relative;
-  padding:50px;
-  background:#f8f8f8;
-  padding-top:130px;
-}
-
-.slider img {
-    width: 100%;
-}
-
-#carousel-slider {
-  position: relative;
-}
-
-#carousel-slider .carousel-indicators {
-  bottom: -35px;
-}
-
-#carousel-slider .carousel-indicators li {
-  border: 1px solid #ffbd20;
-}
-
-#carousel-slider a i {
-	border: 1px solid #006400;
-	border-radius:50%;
-	font-size: 28px;
-	height: 50px;
-	padding: 8px;
-	position: absolute;
-	top: 50%;
-	width: 50px;
-	color:#fff;
-	background:#006400;
-}
-
-#carousel-slider a i:hover {
-  background:#006400;
-  color:#fff;
-  border: 1px solid #006400;
-}
-
-#carousel-slider
-.carousel-control {
-  width:inherit;
-}
-
-#carousel-slider .carousel-control.left i {
-  left:50px
-}
-
-#carousel-slider .carousel-control.right i {
-  right: 50px;
-}
-
-#carousel-slider
-.carousel-control.left,
-#carousel-slider
-.carousel-control.right {
-  background: none;
-}
-
-/*===========================
   About
 ============================ */
 #about  {
@@ -323,6 +258,72 @@ a.accordion-toggle  i{
   background: #008000;
   color: #fff;
 }
+
+/*===========================
+  Slider
+============================ */
+.slider {
+  position: relative;
+  padding:50px;
+  background:#f8f8f8;
+  padding-top:130px;
+}
+
+.slider img {
+    width: 100%;
+}
+
+#carousel-slider {
+  position: relative;
+}
+
+#carousel-slider .carousel-indicators {
+  bottom: -35px;
+}
+
+#carousel-slider .carousel-indicators li {
+  border: 1px solid #ffbd20;
+}
+
+#carousel-slider a i {
+	border: 1px solid #006400;
+	border-radius:50%;
+	font-size: 28px;
+	height: 50px;
+	padding: 8px;
+	position: absolute;
+	top: 50%;
+	width: 50px;
+	color:#fff;
+	background:#006400;
+}
+
+#carousel-slider a i:hover {
+  background:#006400;
+  color:#fff;
+  border: 1px solid #006400;
+}
+
+#carousel-slider
+.carousel-control {
+  width:inherit;
+}
+
+#carousel-slider .carousel-control.left i {
+  left:50px
+}
+
+#carousel-slider .carousel-control.right i {
+  right: 50px;
+}
+
+#carousel-slider
+.carousel-control.left,
+#carousel-slider
+.carousel-control.right {
+  background: none;
+}
+
 
 /*===========================
   Estrutura
