@@ -1,6 +1,9 @@
 .fontserif {
-    font-family: Times, "Times New Roman", Georgia, serif;
-		font-size: 20px;
+    font-family: "Lucida Console", Courier, monospace;
+	  font-size: 20px;
+}
+.fontCourier {
+  font-family: "Lucida Console", Courier, monospace;
 }
 div.container4 {
     height: 3em;
