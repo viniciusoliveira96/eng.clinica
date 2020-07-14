@@ -5,6 +5,9 @@
 .fontCourier {
   font-family: "Lucida Console", Courier, monospace;
 }
+.grayIndex {
+  	background-color: #1C1C1C;
+}
 div.container4 {
     height: 3em;
     position: relative }
