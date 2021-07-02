@@ -628,6 +628,19 @@ a:focus {
     transition: .3s;
 }
 
+.about .about-text a.btn {
+    position: relative;
+    margin-top: 15px;
+    padding: 15px 70px;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    color: #030f27;
+    border-radius: 0;
+    background: #fdbe33;
+    transition: .3s;
+}
+
 .about .about-text a.btn:hover {
     color: #fdbe33;
     background: #030f27;
