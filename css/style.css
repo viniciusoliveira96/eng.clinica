@@ -130,6 +130,14 @@ a:focus {
     font-weight: 400;
 }
 
+.top-bar .top-bar-text h2 {
+    margin: 10px 10px 5px 0;
+    color: #030f27;
+    font-size: 29px;
+    font-weight: 400;
+    align-items: center;
+}
+
 .top-bar .top-bar-text p {
     margin: 0;
     color: #030f27;
